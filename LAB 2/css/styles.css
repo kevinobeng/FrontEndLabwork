@@ -1,6 +1,9 @@
 body{
   margin:0;
-  background-color: Black;
+}
+h1{
+  color: gold;
+  text-align: center;
 }
 header{
   background-color: gold;
@@ -10,7 +13,7 @@ header{
 nav{
   display: flex;
   justify-content: space-around;
-  background-color: gold
+  background-color: gold;
 }
 a{
   color: Black;
@@ -20,6 +23,10 @@ a{
 }
 
 a:hover{
-  background-color: gold;
+  background-color: yellow;
+}
 
+main{
+  width: 80%
+  float:right;
 }
