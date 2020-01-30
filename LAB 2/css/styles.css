@@ -21,11 +21,9 @@ a{
   text-decoration: none;
   transition: background-color 1s;
 }
-
 a:hover{
   background-color: yellow;
 }
-
 main{
   width: 80%
   float:right;
